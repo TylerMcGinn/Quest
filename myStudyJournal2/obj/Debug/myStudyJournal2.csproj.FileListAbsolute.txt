@@ -1,0 +1,117 @@
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\bin\Debug\myStudyJournal2.exe.config
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\bin\Debug\myStudyJournal2.exe
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\bin\Debug\myStudyJournal2.pdb
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\bin\Debug\EntityFramework.dll
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\bin\Debug\LiveCharts.dll
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\bin\Debug\LiveCharts.Wpf.dll
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\bin\Debug\EntityFramework.xml
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\bin\Debug\LiveCharts.pdb
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\bin\Debug\LiveCharts.xml
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\bin\Debug\LiveCharts.Wpf.pdb
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\bin\Debug\LiveCharts.Wpf.xml
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\view\GraphPage.g.cs
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\view\PostView.g.cs
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\view\DatabasePage.g.cs
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\MainWindow.g.cs
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\view\PostPage.g.cs
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\App.g.cs
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\myStudyJournal2_Content.g.cs
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\myStudyJournal2_MarkupCompile.cache
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\myStudyJournal2_MarkupCompile.lref
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\view\GraphPage.baml
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\view\PostView.baml
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\view\DatabasePage.baml
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\MainWindow.baml
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\view\PostPage.baml
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\myStudyJournal2.g.resources
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\myStudyJournal2.Properties.Resources.resources
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\myStudyJournal2.csproj.GenerateResource.cache
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\myStudyJournal2.csproj.CoreCompileInputs.cache
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\myStudyJournal2.csproj.CopyComplete
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\myStudyJournal2.exe
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\myStudyJournal2.pdb
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\bin\Debug\myStudyJournal2.exe.manifest
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\bin\Debug\myStudyJournal2.application
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\myStudyJournal2.csprojAssemblyReference.cache
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\myStudyJournal2.exe.manifest
+D:\VisualStudio\myStudyJournal2\myStudyJournal2\obj\Debug\myStudyJournal2.application
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\bin\Debug\myStudyJournal2.exe.config
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\bin\Debug\myStudyJournal2.exe.manifest
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\bin\Debug\myStudyJournal2.application
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\bin\Debug\myStudyJournal2.exe
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\bin\Debug\myStudyJournal2.pdb
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\bin\Debug\EntityFramework.dll
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\bin\Debug\LiveCharts.dll
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\bin\Debug\LiveCharts.Wpf.dll
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\bin\Debug\EntityFramework.xml
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\bin\Debug\LiveCharts.pdb
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\bin\Debug\LiveCharts.xml
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\bin\Debug\LiveCharts.Wpf.pdb
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\bin\Debug\LiveCharts.Wpf.xml
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\myStudyJournal2.csprojAssemblyReference.cache
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\view\GraphPage.g.cs
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\view\PostView.g.cs
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\view\DatabasePage.g.cs
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\MainWindow.g.cs
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\view\PostPage.g.cs
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\App.g.cs
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\myStudyJournal2_Content.g.cs
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\myStudyJournal2_MarkupCompile.cache
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\myStudyJournal2_MarkupCompile.lref
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\view\GraphPage.baml
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\view\PostView.baml
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\view\DatabasePage.baml
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\MainWindow.baml
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\view\PostPage.baml
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\myStudyJournal2.g.resources
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\myStudyJournal2.Properties.Resources.resources
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\myStudyJournal2.csproj.GenerateResource.cache
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\myStudyJournal2.csproj.CoreCompileInputs.cache
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\myStudyJournal2.exe.manifest
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\myStudyJournal2.application
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\myStudyJournal2.csproj.CopyComplete
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\myStudyJournal2.exe
+D:\VisualStudio\myStudyJournal2 - Copy\myStudyJournal2\obj\Debug\myStudyJournal2.pdb
+D:\VisualStudio\Quest\myStudyJournal2\bin\Debug\myStudyJournal2.exe.config
+D:\VisualStudio\Quest\myStudyJournal2\bin\Debug\myStudyJournal2.exe.manifest
+D:\VisualStudio\Quest\myStudyJournal2\bin\Debug\myStudyJournal2.application
+D:\VisualStudio\Quest\myStudyJournal2\bin\Debug\myStudyJournal2.exe
+D:\VisualStudio\Quest\myStudyJournal2\bin\Debug\myStudyJournal2.pdb
+D:\VisualStudio\Quest\myStudyJournal2\bin\Debug\EntityFramework.dll
+D:\VisualStudio\Quest\myStudyJournal2\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio\Quest\myStudyJournal2\bin\Debug\LiveCharts.dll
+D:\VisualStudio\Quest\myStudyJournal2\bin\Debug\LiveCharts.Wpf.dll
+D:\VisualStudio\Quest\myStudyJournal2\bin\Debug\EntityFramework.xml
+D:\VisualStudio\Quest\myStudyJournal2\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio\Quest\myStudyJournal2\bin\Debug\LiveCharts.pdb
+D:\VisualStudio\Quest\myStudyJournal2\bin\Debug\LiveCharts.xml
+D:\VisualStudio\Quest\myStudyJournal2\bin\Debug\LiveCharts.Wpf.pdb
+D:\VisualStudio\Quest\myStudyJournal2\bin\Debug\LiveCharts.Wpf.xml
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\myStudyJournal2.csprojAssemblyReference.cache
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\view\GraphPage.g.cs
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\view\PostView.g.cs
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\view\DatabasePage.g.cs
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\MainWindow.g.cs
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\view\PostPage.g.cs
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\App.g.cs
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\myStudyJournal2_Content.g.cs
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\myStudyJournal2_MarkupCompile.cache
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\myStudyJournal2_MarkupCompile.lref
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\view\GraphPage.baml
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\view\PostView.baml
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\view\DatabasePage.baml
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\MainWindow.baml
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\view\PostPage.baml
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\myStudyJournal2.g.resources
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\myStudyJournal2.Properties.Resources.resources
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\myStudyJournal2.csproj.GenerateResource.cache
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\myStudyJournal2.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\myStudyJournal2.exe.manifest
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\myStudyJournal2.application
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\myStudyJournal2.csproj.CopyComplete
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\myStudyJournal2.exe
+D:\VisualStudio\Quest\myStudyJournal2\obj\Debug\myStudyJournal2.pdb
